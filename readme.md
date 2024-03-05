@@ -10,7 +10,7 @@
 
 ## Description
 
-This program serves as a tool for individuals who aim to automate their commits, generating a uniformly random commit history table like the one depicted below on GitHub.
+This program serves as a tool for individuals who aim to automate their commits, generating a uniformly random commit history table on GitHub like the one below.
 
 ![Commit Table](./readme_src/commit-table.png)
 
